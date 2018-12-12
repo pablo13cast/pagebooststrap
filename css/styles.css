@@ -1,0 +1,21 @@
+*{
+    padding:0;
+    margin:0;
+    border:0;
+}
+.divheader{
+    background:#0B0B3B;
+}
+
+.text-white{
+    color:white;
+}
+#showcase{
+  min-height:500px;
+  background:url('../img/showcase.jpg') no-repeat 0 -500px;
+
+  color:#ffffff;
+}
+#imgback{
+    background:#0B0B3B;
+}
